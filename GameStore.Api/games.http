@@ -8,7 +8,6 @@ POST http://localhost:5194/games
 Content-Type: application/json
 
 {
-    "name": "New Game",
     "genre": "Adventure",
     "price": 49.99,
     "releaseDate": "2024-07-15"

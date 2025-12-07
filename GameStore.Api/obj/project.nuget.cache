@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/X0ZIdSEdIQ=",
+  "dgSpecHash": "R8eOzNZzkx0=",
   "success": true,
   "projectFilePath": "/home/loiancut/workspace/GameStore/GameStore.Api/GameStore.Api.csproj",
   "expectedPackageFiles": [
+    "/home/loiancut/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/loiancut/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
+    "/home/loiancut/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512",
     "/home/loiancut/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
   ],
   "logs": []

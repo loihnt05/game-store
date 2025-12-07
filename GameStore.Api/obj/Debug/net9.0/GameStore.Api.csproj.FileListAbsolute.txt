@@ -26,3 +26,10 @@
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.pdb
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.genruntimeconfig.cache
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/ref/GameStore.Api.dll
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.sourcelink.json
+/home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/MinimalApis.Extensions.dll
+/home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/MiniValidation.dll
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.csproj.AssemblyReference.cache
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStor.5118A84D.Up2Date
