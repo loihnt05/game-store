@@ -4,12 +4,13 @@ GET http://localhost:5194/games
 GET http://localhost:5194/games/1
 
 ### 
-POST http://localhost:5194/games
+POST http://localhost:5194/games    
 Content-Type: application/json
 
 {
-    "genre": "Adventure",
-    "price": 49.99,
+    "name": "Don't Starve",
+    "genreId": 3,
+    "price": 10.99,
     "releaseDate": "2024-07-15"
 }
 
