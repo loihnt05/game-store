@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3OFuwHeTyZY=",
+  "dgSpecHash": "aFTJkiGArZs=",
   "success": true,
   "projectFilePath": "/home/loiancut/workspace/GameStore/GameStore.Api/GameStore.Api.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,8 @@
     "/home/loiancut/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/loiancut/.nuget/packages/system.text.json/9.0.11/system.text.json.9.0.11.nupkg.sha512",
     "/home/loiancut/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
-    "/home/loiancut/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+    "/home/loiancut/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/home/loiancut/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.11/microsoft.netcore.app.host.linux-x64.9.0.11.nupkg.sha512"
   ],
   "logs": []
 }

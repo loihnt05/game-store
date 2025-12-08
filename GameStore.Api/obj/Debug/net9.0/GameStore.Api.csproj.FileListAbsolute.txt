@@ -15,12 +15,6 @@
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets.build.json
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets.development.json
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
-/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets/msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
-/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets/msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets/msbuild.build.GameStore.Api.props
-/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.GameStore.Api.props
-/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.GameStore.Api.props
-/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets.pack.json
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/refint/GameStore.Api.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.pdb
@@ -68,7 +62,6 @@
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/System.Composition.Hosting.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/System.Composition.Runtime.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/System.Composition.TypedParts.dll
-/home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/System.Text.Json.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -155,3 +148,9 @@
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/loiancut/workspace/GameStore/GameStore.Api/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/loiancut/workspace/GameStore/GameStore.Api/obj/Debug/net9.0/swae.build.ex.cache
