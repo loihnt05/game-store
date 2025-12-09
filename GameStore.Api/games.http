@@ -8,7 +8,7 @@ POST http://localhost:5194/games
 Content-Type: application/json
 
 {
-    "name": "Don't Starve",
+    "name": "Don't Starve Together",
     "genreId": 3,
     "price": 10.99,
     "releaseDate": "2024-07-15"
