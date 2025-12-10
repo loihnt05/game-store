@@ -19,9 +19,9 @@ PUT http://localhost:5194/games/1
 Content-Type: application/json
 
 {
-    "name": "Updated Game Name",
-    "genre": "Action",
-    "price": 59.99,
+    "name": "Updated Adventure Game",
+    "genreId": 2,
+    "price": 30.00,
     "releaseDate": "2024-08-01"
 }
 
